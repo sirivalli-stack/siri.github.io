@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Devaratha Raisaar | Salaar Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        body {
+            background: #0f0f0f;
+            color: white;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(to right, #000000, #1a1a1a);
+            padding: 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 40px;
+            color: #e50914;
+        }
+
+        header p {
+            font-size: 18px;
+            margin-top: 10px;
+            color: #ccc;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #e50914;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #e50914;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        .card {
+            background: #1c1c1c;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255,0,0,0.3);
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #111;
+            margin-top: 40px;
+            color: #888;
+        }
+
+        .highlight {
+            color: #e50914;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Devaratha Raisaar</h1>
+    <p>The Fierce Warrior of Khansaar | Salaar</p>
+</header>
+
+<section>
+    <h2>About</h2>
+    <div class="card">
+        <p>
+            <span class="highlight">Devaratha Raisaar</span> is a powerful and fearless warrior
+            from the movie <span class="highlight">Salaar</span>. Known for his loyalty,
+            strength, and intense personality, he plays a central role in the political
+            power struggle of Khansaar.
+        </p>
+    </div>
+
+    <h2>Character Traits</h2>
+    <div class="card">
+        <ul>
+            <li>Unbreakable Loyalty</li>
+            <li>Extreme Combat Skills</li>
+            <li>Strategic Mind</li>
+            <li>Emotionally Intense</li>
+            <li>Protective and Ruthless when Needed</li>
+        </ul>
+    </div>
+
+    <h2>Skills & Abilities</h2>
+    <div class="card">
+        <ul>
+            <li>Hand-to-hand combat mastery</li>
+            <li>Weapon expertise</li>
+            <li>War strategy planning</li>
+            <li>Leadership qualities</li>
+        </ul>
+    </div>
+
+    <h2>Famous Dialogue Style</h2>
+    <div class="card">
+        <p>
+            Silent. Deadly. Dominating presence.  
+            His actions speak louder than words.
+        </p>
+    </div>
+
+    <h2>Legacy in Khansaar</h2>
+    <div class="card">
+        <p>
+            Devaratha Raisaar becomes a symbol of power, loyalty, and rebellion.
+            His journey defines brotherhood, betrayal, and destiny.
+        </p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Salaar Character Portfolio | Designed with Passion 🔥
+</footer>
+
+</body>
+</html>
